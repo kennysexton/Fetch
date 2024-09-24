@@ -1,1 +1,1 @@
-![Emulator screenshot](./fetch_final.png)
+![Emulator screenshot](./fetch_final.PNG)
